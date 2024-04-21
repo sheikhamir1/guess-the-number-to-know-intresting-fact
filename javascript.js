@@ -1,6 +1,6 @@
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
-console.log(`first random number is ${randomNumber}`);
+//console.log(`first random number is ${randomNumber}`);
 const submit = document.querySelector('#subt');
 //  this is submit button
 const userInput = document.querySelector('#guessField');
